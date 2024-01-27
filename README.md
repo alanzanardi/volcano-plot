@@ -8,7 +8,7 @@ Hoping they can be useful to you as example from which collecting inspiration fo
 ## Content :open_book:<br>
 **:small_red_triangle_down:volcano_plot.py:** this script is for generating Volcano plot images for publication purposes (Fig. 1). Data, both statistically and biologically significant, are shown in blue. <br><br>
 **Figure 1**<br>
-<img src="https://github.com/alanzanardi/volcano-plot/blob/main/Fig1.jpg">
+<img src="https://github.com/alanzanardi/volcano-plot/blob/main/Fig1.jpg" width="1188" height="600">>
 <br>
 **:small_red_triangle_down:interatcive_volcano_plot.py:** this script is used to generate an interactive Volcano plot via HTML (Fig. 2). The purpose is to provide a tool for quickly identifying the gene of interest on the graph.<br>
 <br>
